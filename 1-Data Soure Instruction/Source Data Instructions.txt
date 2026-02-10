@@ -1,0 +1,3 @@
+CRRGs were obtained from the Molecular Signatures Database (MSigDB; http://www.broadinstitute.org/msigdb) using the search term "circadian rhythm" (Supplementary Table S1).
+For the training set, RNA-seq gene expression data with clinical information were downloaded from The Cancer Genome Atlas (TCGA-LGG; https://portal.gdc.cancer.gov/).
+Validation cohorts comprised individual dataset CGGA301, CGGA325 and CGGA693 datasets(Zhao et al., 2021), obtained from the Chinese Glioma Genome Atlas (CGGA; https://www.cgga.org.cn/), and two Gene Expression Omnibus (GEO) datasets (GSE43378 and GSE16011, http://www.ncbi.nlm.nih.gov/geo). 
